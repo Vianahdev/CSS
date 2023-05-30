@@ -1,0 +1,17 @@
+div{
+    margin-bottom: 10px;
+}
+
+
+.container{
+    width: 50vw;
+    background: Red;
+}
+
+.inside{
+    width: 100px;
+    background: blue;
+}
+
+
+

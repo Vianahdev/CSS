@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    background-color: red;
+    padding: 5px;
+    border: 5px solid yellow;
+    margin: 10px;
+}
+
+.conteudo{
+    background-color: blue;
+    border: 5px solid green;
+    padding: 5px;
+}
+
+.quadrado{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 217, 0);
+    border: 10px solid blue;
+    padding: 10px;
+    
+    box-sizing: border-box;
+}
+
+.quadrado2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 217, 0);
+}

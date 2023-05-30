@@ -1,0 +1,17 @@
+@font-face{
+    font-family: DancingScript;
+    src: url(../fonts/DancingScript/DancingScript-VariableFont_wght.ttf);
+}
+
+@font-face{
+    font-family: ShadowsIntoLight;
+    src: url(../fonts/ShadowsIntoLight/ShadowsIntoLight-Regular.ttf);
+}
+
+p{
+    font-family: 'DancingScript', cursive;
+}
+
+h1{
+    font-family: 'ShadowsIntoLight', cursive;
+}

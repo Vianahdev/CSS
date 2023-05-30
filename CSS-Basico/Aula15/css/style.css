@@ -1,0 +1,23 @@
+.links{
+    text-decoration: none;
+    color: red;
+    font-size: 2em;
+    text-transform: uppercase;
+    /*background: black;*/
+    padding: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+/*.links:hover{
+    background: black;
+    color: white;
+}*/
+
+.links:active{
+    background: black;
+    color: white;
+}

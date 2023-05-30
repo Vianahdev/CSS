@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#container-vermelho {
+    background-color: red;
+    width: 50vw;
+    height: 50vh;
+    margin-bottom: 5px;
+}
+
+#container-vermelho h2 {
+    text-align: center;
+}
+
+.w50-vermelho{
+    background: linear-gradient(green, blue, yellow);
+    width: 50%;
+    height: 50%;
+}
+
+#container-azul{
+    background-color: blue;
+    width: 500px;
+    height: 250px;
+    margin-bottom: 5px;
+}
+
+#container-azul h2 {
+    text-align: center;
+}
+
+.w50-azul{
+    background: linear-gradient(green, red, black);
+    width: 250px;
+    height: 125px;
+}
