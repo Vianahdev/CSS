@@ -1,2 +1,2 @@
 # CSS
-Meus estudos em CSS
+Primeiros passo em linguagem de estilização CSS.
