@@ -1,0 +1,30 @@
+.container{
+    width: 720px;
+    margin: 0 auto;
+}
+
+input:focus{
+    color: blue;
+}
+
+/*li:first-child{
+    color: red;
+}*/
+
+li{
+    list-style: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+li:nth-of-type(even){
+    background-color:beige
+}
+
+li:nth-of-type(odd){
+    background-color:gray;
+    color: white;
+}
+
+
+
