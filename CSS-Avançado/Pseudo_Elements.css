@@ -1,0 +1,17 @@
+.container{
+    width: 720px;
+    margin: 0 auto;
+}
+
+p::first-letter{
+    color: red;
+    font-size: 52px;
+    font-weight: bold;
+}
+
+p::first-line{
+    color: blue;
+    text-transform: uppercase;
+}
+
+
