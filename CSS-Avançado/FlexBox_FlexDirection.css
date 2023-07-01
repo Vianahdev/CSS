@@ -1,6 +1,6 @@
 .container{
     background-color: gray;
-    height: 750px;
+    height: 500px;
     font-size: 32px;
     color: white;
 
@@ -9,7 +9,9 @@
 }
 
 .rect{
-
+    width: 150px;
+    height: 33vh;
+    margin-top: 15px;
 }
 
 .r1{
