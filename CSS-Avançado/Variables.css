@@ -1,0 +1,32 @@
+:root{
+    --var_color: aqua;
+    --var_font_size: 21px;
+    --var_font_weight: bold;
+
+    --var_square: 250px;
+}
+
+.p2{
+    color: var(--var_color);
+    font-size: var(--var_font_size);
+    font-weight:var(--var_font_weight);
+}
+
+.p3{
+    color: var(--var_color);
+    font-size: var(--var_font_size);
+    font-weight:var(--var_font_weight);
+}
+
+.sqr1{
+    width: var(--var_square);
+    height: var(--var_square);
+    background-color: black;
+}
+
+
+.sqr2{
+    width: var(--var_square);
+    height: var(--var_square);
+    background-color: green;
+}
