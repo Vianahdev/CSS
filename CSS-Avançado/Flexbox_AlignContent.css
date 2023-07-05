@@ -1,7 +1,13 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 body{
-  display: flex;
-  justify-content: center;
-  align-items: center;
+ display: flex;
+ justify-content: center;
+ align-items: center;
 }
 
 #container{
@@ -14,13 +20,20 @@ body{
 
   flex-wrap: wrap;
   align-content:center;
-  gap: 2px;
+  gap: 4px;
 }
 
 .w25{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
   width: 24.5%;
   height: 24.5%;
-  border: 1px solid black;
+
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
 }
 
 .color1{
